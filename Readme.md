@@ -82,3 +82,17 @@ we should delete file from git first by using
 if you created more files to add
 instead of using separate add's we use
     git add .  command
+
+
+after init,add,commit
+next step: we should provide link of repo by following command
+       >git remote add origin (https://github.com/[repo link]dvenukumar55/git-tutorial-demo).git
+
+we need to push file to that repo:
+       >git push origin main    
+
+
+TAGGING
+ two types:
+    annotated tagging   we use this
+    lightweight tagging
