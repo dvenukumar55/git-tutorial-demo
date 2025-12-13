@@ -120,3 +120,15 @@ to create branch we use:
 to check how many branches we use:
      git branch
      -starred branch is in use 
+
+branch deletion:
+    git branch -d <branchname>     
+
+to switch easily bw branches we use
+     git switch -
+
+     ->this switches to before branch
+
+To get these branches into git we use:
+     git push origin <branchname>
+     
