@@ -113,22 +113,3 @@ go to folder, open cmd  in it
  use this command  
        git clone (that project link in github)
 after that ,files are added to the folder       
-
-BRANCH creation:
-to create branch we use:
-     git checkout -b (branchname)
-to check how many branches we use:
-     git branch
-     -starred branch is in use 
-
-branch deletion:
-    git branch -d <branchname>     
-
-to switch easily bw branches we use
-     git switch -
-
-     ->this switches to before branch
-
-To get these branches into git we use:
-     git push origin <branchname>
-     
