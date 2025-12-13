@@ -96,3 +96,20 @@ TAGGING
  two types:
     annotated tagging   we use this
     lightweight tagging
+we use annomated tagging
+
+we create tag by using:
+      git tag -a (tagname)eg:v1.0
+
+we will see how many tags by using:
+      git tag
+
+to insert that tag to github b :
+     git push origin (tagname i.e.,v1.0)  
+
+
+if you clone a projectfrom other
+go to folder open cmd  in it
+ use this command  
+       git clone (that project link in github)
+after that ,files are added to the folder       
