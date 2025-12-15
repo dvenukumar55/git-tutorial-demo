@@ -1,4 +1,2 @@
-usernames of employees
-passwords of employees
-salaries of employees
-hikes of employees
+usernames of employee
+passwords of employee
