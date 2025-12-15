@@ -108,8 +108,8 @@ to insert that tag to github b :
      git push origin (tagname i.e.,v1.0)  
 
 
-if you clone a projectfrom other
-go to folder open cmd  in it
+if you clone a project from other
+go to folder, open cmd  in it
  use this command  
        git clone (that project link in github)
 after that ,files are added to the folder       
